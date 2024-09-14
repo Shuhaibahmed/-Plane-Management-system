@@ -1,4 +1,4 @@
-<div align=left>
+
 <h2>Plane Seat Management System in Java</h2>
 <p>University of Westminster</p>
 <p>For a university project, I developed a comprehensive Plane Seat Management System using Java. This system streamlines the process of seat reservations and management, providing a user-friendly interface to handle key tasks such as booking, canceling, and searching for seats. The system’s core features include:</p>
@@ -10,4 +10,4 @@
 <p> 5.Total Sales Calculation: Computes and displays the total revenue generated from ticket sales.</p>
 <br>
 <p>The system utilizes Java arrays for seat management and leverages object-oriented principles with classes to ensure modularity and functionality. Additional features include printing ticket information and saving ticket data to files for future reference. Through rigorous testing and coding best practices, this project demonstrates my strong command of Java programming, data structures, and object-oriented design.</p>
-</div>
+
